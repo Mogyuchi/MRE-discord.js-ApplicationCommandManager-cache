@@ -1,0 +1,21 @@
+{
+  "name": "MRE-discord.js-ApplicationCommandManager-cache",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node .",
+    "format": "pnpm dlx @biomejs/biome check --apply .",
+    "test": "node --test index.mjs"
+  },
+  "keywords": [],
+  "author": "Mogyuchi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "14.14.1",
+    "ora": "7.0.1"
+  },
+  "packageManager": "pnpm@8.10.0",
+  "devDependencies": {
+    "@biomejs/biome": "1.3.3"
+  }
+}
