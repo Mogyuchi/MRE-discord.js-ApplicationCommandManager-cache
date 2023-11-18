@@ -1,0 +1,1 @@
+# MRE-discord.js-ApplicationCommandManager-cache
